@@ -36,15 +36,15 @@ span {
 	float: right; top :0; right: 0; margin: 0;
 	position: absolute;
 }
-#nr1 {
+#one {
 	background-color: rgb(250, 150, 150);
 	color: rgb(0, 0, 0);
 }
-#nr2 {
+#two {
 	background-color: rgb(250, 0, 0);
 	color: rgb(250, 250, 250);
 }
-#nr3 {
+#three {
 	background-color: rgb(200, 200, 100);
 	color: rgb(0, 0, 0);
 }
